@@ -1,0 +1,56 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+/* .banner-container {
+    background-color: rgb(170, 186, 187);
+    
+} */
+
+
+.banner-column {
+    background-color: azure;
+
+}
+
+.navbar-container {
+    top: 0;
+    background-color: #262B37;
+    position: sticky;
+}
+
+.about-container {
+    background-color: #AABABB ;
+}
+
+.education-container {
+    background-color: #ffffffc0 ;
+}
+
+.experience-container {
+    background-color: #ffffffc0 ;
+}
+.bg-red {
+    background-color:#efbcb9 ;
+}
+
+.bg-red-text {
+    color:#3ea3ce ;
+}
+
+.circle {
+    background-color: #3ea3ce;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.project-container {
+    background-color: #AABABB;
+}
+
+.gallary-container {
+    background-color: #AABABB;
+}
